@@ -2,9 +2,9 @@ import { Platform } from "react-native";
 
 export const fonts = {
   primary: {
-    regular: { fontFamily: "Averta-Regular" },
-    semibold: { fontFamily: "Averta-Semibold" },
-    bold: { fontFamily: "Averta-Bold" }
+    regular: { fontFamily: "OpenSans" },
+    semibold: { fontFamily: "OpenSans-Semibold" },
+    bold: { fontFamily: "OpenSans-Bold" }
   },
   secondary: {
     semibold: {

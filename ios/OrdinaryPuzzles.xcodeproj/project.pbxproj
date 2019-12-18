@@ -17,13 +17,13 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* OrdinaryPuzzlesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OrdinaryPuzzlesTests.m */; };
-		43E49040E6164FC0ABAA1ACF /* Averta-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE2FE4A3510C4E1F8BE75EF3 /* Averta-Regular.ttf */; };
 		4E925DC50388E3D03E0E64D8 /* libPods-OrdinaryPuzzles.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 99FDA6D3D2609A5CF64CA69F /* libPods-OrdinaryPuzzles.a */; };
 		5150BF0B239BAA6000A5F9B4 /* buttonpress.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5150BF0A239BAA6000A5F9B4 /* buttonpress.wav */; };
-		7D5E196635A04FCEB1DF7687 /* Averta-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4497DB6275B42518FA477B0 /* Averta-Semibold.ttf */; };
 		81679FD69C247D65A2F38E40 /* libPods-OrdinaryPuzzlesTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C9EB0ADA3867C084FE16F80 /* libPods-OrdinaryPuzzlesTests.a */; };
 		AFE20947E8BA7D661349E946 /* libPods-OrdinaryPuzzles-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 899856EF2F1E88A560EAB9E5 /* libPods-OrdinaryPuzzles-tvOS.a */; };
-		EF8E5AF3B1A247D0BE9960BB /* Averta-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A8A7854599794978A3185201 /* Averta-Bold.ttf */; };
+		F505743A23AAA183001A6FB9 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F505743723AAA183001A6FB9 /* OpenSans-Regular.ttf */; };
+		F505743B23AAA183001A6FB9 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F505743823AAA183001A6FB9 /* OpenSans-Bold.ttf */; };
+		F505743C23AAA183001A6FB9 /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F505743923AAA183001A6FB9 /* OpenSans-Semibold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,13 +67,13 @@
 		899856EF2F1E88A560EAB9E5 /* libPods-OrdinaryPuzzles-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzles-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C9EB0ADA3867C084FE16F80 /* libPods-OrdinaryPuzzlesTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzlesTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		99FDA6D3D2609A5CF64CA69F /* libPods-OrdinaryPuzzles.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzles.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A8A7854599794978A3185201 /* Averta-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Averta-Bold.ttf"; path = "../assets/fonts/Averta-Bold.ttf"; sourceTree = "<group>"; };
 		B591D25B2C6857053198CB6B /* Pods-OrdinaryPuzzles-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzles-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzles-tvOSTests/Pods-OrdinaryPuzzles-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		BE2FE4A3510C4E1F8BE75EF3 /* Averta-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Averta-Regular.ttf"; path = "../assets/fonts/Averta-Regular.ttf"; sourceTree = "<group>"; };
-		C4497DB6275B42518FA477B0 /* Averta-Semibold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Averta-Semibold.ttf"; path = "../assets/fonts/Averta-Semibold.ttf"; sourceTree = "<group>"; };
 		CED9FAF36F2FA7526DA1C927 /* libPods-OrdinaryPuzzles-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzles-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		F505743723AAA183001A6FB9 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		F505743823AAA183001A6FB9 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		F505743923AAA183001A6FB9 /* OpenSans-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Semibold.ttf"; sourceTree = "<group>"; };
 		F9B4C3659CDDF0AA1AB898ED /* Pods-OrdinaryPuzzles.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzles.release.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzles/Pods-OrdinaryPuzzles.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -133,9 +133,9 @@
 		04660E8F3D6743D8AF7A6006 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A8A7854599794978A3185201 /* Averta-Bold.ttf */,
-				BE2FE4A3510C4E1F8BE75EF3 /* Averta-Regular.ttf */,
-				C4497DB6275B42518FA477B0 /* Averta-Semibold.ttf */,
+				F505743823AAA183001A6FB9 /* OpenSans-Bold.ttf */,
+				F505743723AAA183001A6FB9 /* OpenSans-Regular.ttf */,
+				F505743923AAA183001A6FB9 /* OpenSans-Semibold.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -360,12 +360,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F505743C23AAA183001A6FB9 /* OpenSans-Semibold.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				EF8E5AF3B1A247D0BE9960BB /* Averta-Bold.ttf in Resources */,
+				F505743A23AAA183001A6FB9 /* OpenSans-Regular.ttf in Resources */,
+				F505743B23AAA183001A6FB9 /* OpenSans-Bold.ttf in Resources */,
 				5150BF0B239BAA6000A5F9B4 /* buttonpress.wav in Resources */,
-				43E49040E6164FC0ABAA1ACF /* Averta-Regular.ttf in Resources */,
-				7D5E196635A04FCEB1DF7687 /* Averta-Semibold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

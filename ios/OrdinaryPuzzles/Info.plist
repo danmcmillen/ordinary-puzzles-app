@@ -41,9 +41,9 @@
 	<string></string>
 	<key>UIAppFonts</key>
 	<array>
-		<string>Averta-Bold.ttf</string>
-		<string>Averta-Regular.ttf</string>
-		<string>Averta-Semibold.ttf</string>
+		<string>OpenSans-Bold.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-Semibold.ttf</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>

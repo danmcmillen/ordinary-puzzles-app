@@ -1,5 +1,4 @@
 {
-  "eslint.autoFixOnSave": true,
   "editor.formatOnSave": true,
   "eslint.enable": true,
   "eslint.validate": [
@@ -9,5 +8,8 @@
     "typescriptreact"
   ],
   "typescript.preferences.importModuleSpecifier": "auto",
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }
